@@ -120,4 +120,4 @@ If you find this project helpful, please ⭐ the repository and share it with th
 
 ## 📬 Contact
 
-For questions or support, open an issue on the [GitHub repository](https://github.com/Muzain187/Graph_Visual_Component) or contact the maintainer at [your-contact-info].
+For questions or support, open an issue on the [GitHub repository](https://github.com/Muzain187/Graph_Visual_Component) or contact the maintainer at [muzain.ashraf@gmail.com].
